@@ -154,7 +154,7 @@ import re
 
 
 def find_phones(text):
-    pattern = r"(\+7-\d{3}-\d{3}-\d{2}-\d{2}|8\s*\(\d{3}\)\s*\d{3}-\d{2}-\d{2})"
+    pattern = r"((\+7-\d{3}-\d{3}-\d{2}-\d{2})|(8\s*\(\d{3}\)\s*\d{3}-\d{2}-\d{2}))"
     return re.findall(pattern, text)
 
 text = "Мой телефон: +7-999-123-45-67, офис: 8 (812) 555-66-77."
