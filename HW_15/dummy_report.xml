@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<test_report>
+  <total>7</total>
+  <passed>3</passed>
+  <failed>4</failed>
+  <persentage>42.9</persentage>
+  <errors>
+    <error>
+      <test_id>2</test_id>
+      <expected>True</expected>
+      <actual>False</actual>
+    </error>
+    <error>
+      <test_id>5</test_id>
+      <expected>False</expected>
+      <actual>True</actual>
+    </error>
+    <error>
+      <test_id>6</test_id>
+      <expected>True</expected>
+      <actual>False</actual>
+    </error>
+    <error>
+      <test_id>7</test_id>
+      <expected>False</expected>
+      <actual>True</actual>
+    </error>
+  </errors>
+</test_report>

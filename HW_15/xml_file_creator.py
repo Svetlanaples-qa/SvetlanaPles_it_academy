@@ -1,0 +1,28 @@
+import xml.etree.ElementTree as ET
+import random
+
+# Данные для генерации
+names = ["John", "Alex", "Maria", "David", "Elena", "Mike", "Sarah", "Tom", "Anna", "Paul"]
+roles = ["QA", "AQA", "DEV", "PM", "PO", "CEO", "HR", "Senior QA", "Junior DEV", "Team Lead"]
+
+# Создание корневого элемента
+root = ET.Element('company')
+root.set('name', 'TechCorp')
+root.set('generated', '2026-01-18')
+
+# Генерация 10 пользователей
+for i in range(10):
+    user = ET.SubElement(root, 'employee', {'id': str(i + 1)})
+
+    name_elem = ET.SubElement(user, 'name')
+    name_elem.text = random.choice(names)
+
+    role_elem = ET.SubElement(user, 'role')
+    role_elem.text = random.choice(roles)
+
+    salary_elem = ET.SubElement(user, 'salary')
+    salary_elem.text = str(random.randint(1000, 10000))
+
+# Создание дерева и сохранение
+tree = ET.ElementTree(root)
+tree.write('employees.xml', encoding='utf-8', xml_declaration=True)

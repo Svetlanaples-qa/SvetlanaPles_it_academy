@@ -1,0 +1,28 @@
+{
+  "total": 7,
+  "passed": 3,
+  "failed": 4,
+  "errors": [
+    {
+      "test_id": 2,
+      "expected": true,
+      "actusl": false
+    },
+    {
+      "test_id": 5,
+      "expected": false,
+      "actusl": true
+    },
+    {
+      "test_id": 6,
+      "expected": true,
+      "actusl": false
+    },
+    {
+      "test_id": 7,
+      "expected": false,
+      "actusl": true
+    }
+  ],
+  "presentage": 42.9
+}
