@@ -21,3 +21,113 @@
 2026-01-22 16:13:08,303 - calculator - INFO - Calculating: 10.4 + 12456.0
 2026-01-22 16:13:08,303 - calculator - INFO - Result: 12466.4
 2026-01-22 16:13:17,075 - calculator - ERROR - Неверный формат ввода
+2026-02-02 18:50:13,481 - calculator3 - INFO - User input: 6
+2026-02-02 18:50:13,481 - calculator3 - WARNING - Invalid input format: 6
+2026-02-02 18:50:18,545 - calculator3 - INFO - User input: 6 + 7
+2026-02-02 18:51:17,567 - calculator3 - INFO - User input: 4 / 0
+2026-02-02 18:51:47,930 - calculator3 - INFO - User input: 4 / 0
+2026-02-02 18:52:01,006 - calculator3 - INFO - User input: q
+2026-02-02 18:52:01,006 - calculator3 - INFO - Calculator closed by user
+2026-02-02 19:57:41,899 - calculator3 - INFO - User input: 6
+2026-02-02 19:57:41,899 - calculator3 - WARNING - Invalid input format: 6
+2026-02-02 19:57:48,745 - calculator3 - INFO - User input: 4 + 3
+2026-02-02 19:57:48,746 - calculator3 - INFO - Calculating: 4.0 + 3.0
+2026-02-02 19:57:48,746 - calculator3 - INFO - Result: 7.0
+2026-02-02 19:57:54,144 - calculator3 - INFO - User input: 4 / 0
+2026-02-02 19:57:54,145 - calculator3 - INFO - Calculating: 4.0 / 0.0
+2026-02-02 19:57:54,145 - calculator3 - ERROR - Деление на ноль
+2026-02-02 19:58:01,359 - calculator3 - INFO - User input: 4 +3
+2026-02-02 19:58:01,360 - calculator3 - WARNING - Invalid input format: 4 +3
+2026-02-02 19:58:07,760 - calculator3 - INFO - User input: q
+2026-02-02 19:58:07,760 - calculator3 - INFO - Calculator closed by user
+2026-02-02 21:08:15,737 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-02 21:08:15,737 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-02 21:08:15,738 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-02 21:08:15,738 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-02 21:08:15,738 - calculator3 - INFO - Calculating: 2 ^ 3
+2026-02-02 21:08:15,738 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-02 21:08:15,738 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-02 21:08:56,191 - calculator3 - INFO - Calculating: 10 + 5
+2026-02-02 21:08:56,193 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-02 21:08:56,193 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-02 21:08:56,193 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-02 21:08:56,193 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-02 21:08:56,193 - calculator3 - INFO - Calculating: 2 ^ 3
+2026-02-02 21:08:56,193 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-02 21:08:56,193 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-02 21:09:25,680 - calculator3 - INFO - Calculating: 10 + 5
+2026-02-02 21:09:25,681 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-02 21:09:25,682 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-02 21:09:25,682 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-02 21:09:25,682 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-02 21:09:25,682 - calculator3 - INFO - Calculating: 2 ^ 3
+2026-02-02 21:09:25,682 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-02 21:09:25,682 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-02 21:09:52,732 - calculator3 - INFO - Calculating: 10 + 5
+2026-02-02 21:09:52,733 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-02 21:09:52,733 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-02 21:09:52,733 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-02 21:09:52,733 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-02 21:09:52,733 - calculator3 - INFO - Calculating: 2 ^ 3
+2026-02-02 21:09:52,733 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-02 21:09:52,733 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-03 14:08:37,505 - calculator3 - INFO - Calculating: 10 + 5
+2026-02-03 14:08:37,506 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-03 14:08:37,506 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-03 14:08:37,506 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-03 14:08:37,506 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-03 14:08:37,506 - calculator3 - INFO - Calculating: 2 ^ 3
+2026-02-03 14:08:37,506 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-03 14:08:37,506 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-03 14:09:02,182 - calculator3 - INFO - Calculating: 10 + 5
+2026-02-03 14:09:02,182 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-03 14:09:02,183 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-03 14:09:02,183 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-03 14:09:02,183 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-03 14:09:02,183 - calculator3 - INFO - Calculating: 2 ^ 3
+2026-02-03 14:09:02,183 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-03 14:09:02,183 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-03 14:10:16,683 - calculator3 - INFO - Calculating: 10 + 5
+2026-02-03 14:10:16,683 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-03 14:10:16,683 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-03 14:10:16,683 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-03 14:10:16,684 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-03 14:10:16,684 - calculator3 - INFO - Calculating: 2 ^ 3
+2026-02-03 14:10:16,684 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-03 14:10:16,684 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-03 14:10:44,392 - calculator3 - INFO - Calculating: 10 + 5
+2026-02-03 14:10:44,392 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-03 14:10:44,392 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-03 14:10:44,392 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-03 14:10:44,392 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-03 14:10:44,392 - calculator3 - INFO - Calculating: 2 ^ 3
+2026-02-03 14:10:44,393 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-03 14:10:44,393 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-03 14:19:27,882 - calculator3 - INFO - Calculating: 10 + 5
+2026-02-03 14:19:27,882 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-03 14:19:27,882 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-03 14:19:27,882 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-03 14:19:27,882 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-03 14:19:27,882 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-03 14:19:27,882 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-03 14:23:45,274 - calculator3 - INFO - Calculating: 10 + 5
+2026-02-03 14:23:45,274 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-03 14:23:45,275 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-03 14:23:45,275 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-03 14:23:45,275 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-03 14:23:45,275 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-03 14:23:45,291 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-03 15:06:01,505 - calculator3 - INFO - Calculating: 10 + 6
+2026-02-03 15:06:01,529 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-03 15:06:01,529 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-03 15:06:01,529 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-03 15:06:01,530 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-03 15:06:01,530 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-03 15:06:01,530 - calculator3 - INFO - Calculating: 1 % 2
+2026-02-03 15:18:14,990 - calculator3 - INFO - Calculating: 10 + 6
+2026-02-03 15:18:14,994 - calculator3 - INFO - Calculating: 10 / 5
+2026-02-03 15:18:14,994 - calculator3 - INFO - Calculating: 1 / 0
+2026-02-03 15:18:14,994 - calculator3 - INFO - Calculating: 2 ** 3
+2026-02-03 15:18:14,994 - calculator3 - INFO - Calculating: 10 * 5
+2026-02-03 15:18:14,994 - calculator3 - INFO - Calculating: 10 - 5
+2026-02-03 15:18:14,995 - calculator3 - INFO - Calculating: 1 % 2
